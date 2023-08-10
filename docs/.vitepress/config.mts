@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Sevent notes',
   lastUpdated: true,
   themeConfig: {
-    logo: './asstes/images/xing.png',
+    logo: '/asstes/images/xing.png',
     search: {
       provider: 'local',
     },
